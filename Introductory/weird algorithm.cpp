@@ -1,5 +1,6 @@
 //the problem is known as Collatz conjecture 
-//it states that every number will converge to 1 if we apply the given algorithm
+//it states that every number will converge to 1 if we apply the given algorithm 
+//i.e. if even then divide by 2 and if odd then multiply with 3 and add 1
 //it is a direct implementation problem 
 //just take care of edge case - big inputs -> use long long instead of int
 
